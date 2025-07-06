@@ -1,0 +1,32 @@
+# Chronicare Blog 🩺
+
+A multi-page responsive blog for chronic illness education and management.
+
+## 🌐 Live Demo
+
+Visit Site https://plp-webtechnologies.github.io/feb-2025-final-project-and-deployment-Butichiivy/
+
+## 📁 Pages
+
+- `index.html` – Homepage with health tips, gallery, and signup
+- `about.html` – Info about the mission of Chronicare
+- `contact.html` – Contact form and contact details
+
+## ⚙️ Features
+
+- Responsive design using Flexbox
+- CSS animations and hover effects
+- JavaScript interactivity (form validation, theming)
+- localStorage to save theme preferences
+- Semantic HTML5
+
+## 🚀 Built With
+
+- HTML5
+- CSS3
+- JavaScript
+- GitHub Pages (for deployment)
+
+## 👩🏾‍💻 Developed by
+
+[Ivy Butichi] 
